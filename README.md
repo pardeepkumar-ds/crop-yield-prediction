@@ -124,4 +124,4 @@ you plan to open-source it formally.
 
 ---
 
-*Author: [Your Name] — update this section with your details before publishing.*
+*Author: [pardeep_kumar]
